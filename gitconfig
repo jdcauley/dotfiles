@@ -1,0 +1,9 @@
+[user]
+  name = Jordan Cauley
+  email = jordan@cauley.co
+
+[core]
+  editor = emacs
+
+[color]
+  ui = true
